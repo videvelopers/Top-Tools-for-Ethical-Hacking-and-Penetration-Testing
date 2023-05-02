@@ -8,6 +8,10 @@
 
 [ e-mail](salman@videvelopers.com)
 
+[download tech-freedom](https://play.google.com/store/apps/details?id=com.videvelopers.app.tech_freedom&pli=1)
+
+[about tech-freedom](techfreedom.in)
+
 hello friends! In this article, we'll explore the top tools for ethical hacking and penetration testing, including tools for reconnaissance, network mapping, vulnerability scanning, password cracking, and more. By understanding the capabilities of these tools and how they can be used, you can enhance your ability to identify and mitigate security risks.
 
 ## Information Gathering tools
